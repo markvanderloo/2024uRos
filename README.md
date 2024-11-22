@@ -5,6 +5,11 @@ Materials for a two-hour tutorial on data validation with the `validate` package
 
 ### Preparation
 
+Make sure you have a recent version of R installed. It is recommended, but not
+strictly necessary to work with an IDE that integrates R (e.g. `vscode` or
+`RStudio/Posit`).
+
+
 Install the `validate` and `validatetools` packages from CRAN.
 
 ```r
