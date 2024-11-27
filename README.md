@@ -13,7 +13,7 @@ strictly necessary to work with an IDE that integrates R (e.g. `vscode` or
 1. Install the `validate` package from CRAN.
 
 ```r
-install.packages(c('validate'))
+install.packages('validate')
 ```
 
 2. In RStudio: `New Project->Version Control->clone a project from a git repository`, fill
