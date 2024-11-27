@@ -4,3 +4,4 @@
 *.RData
 *.Ruserdata
 *.log
+.Rproj.user

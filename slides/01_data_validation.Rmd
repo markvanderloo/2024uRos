@@ -17,13 +17,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Getting Started
 
-
-```{eval=FALSE}
-git clone https://github.com/markvanderloo/2024uRos
-```
-
-- Create an RStudio project in `2024uRos`
-- Open the file `01_validate.R`
+1. Go to https://github.com/markvanderloo/2024uRos
+2. Follow the instructions of the README to clone this repository into an RStudio project
+3. Open the file `assignments/01_validate.R`
 
 
 ## Goals of this presentation
@@ -417,6 +413,7 @@ Open the data validation cookbook: [data.cleaning.github.io/validate/](https://d
  
 - `validatetools` (Edwin de Jonge): find inconsistencies, redundancies in data validation rules
 - `validatesuggest` (Edwin de Jonge): Derive rules from example data
+
 
 
 

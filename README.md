@@ -10,11 +10,14 @@ strictly necessary to work with an IDE that integrates R (e.g. `vscode` or
 `RStudio/Posit`).
 
 
-Install the `validate` package from CRAN.
+1. Install the `validate` package from CRAN.
 
 ```r
 install.packages(c('validate'))
 ```
+
+2. In RStudio: `New Project->Version Control->clone a project from a git repository`, fill
+   in `https://github.com/markvanderloo/2024uRos`.
 
 
 
