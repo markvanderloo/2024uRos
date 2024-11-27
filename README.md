@@ -10,10 +10,10 @@ strictly necessary to work with an IDE that integrates R (e.g. `vscode` or
 `RStudio/Posit`).
 
 
-Install the `validate` and `validatetools` packages from CRAN.
+Install the `validate` package from CRAN.
 
 ```r
-install.packages(c('validate','validatetools'))
+install.packages(c('validate'))
 ```
 
 
