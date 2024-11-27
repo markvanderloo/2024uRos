@@ -401,21 +401,22 @@ Open the data validation cookbook: [data.cleaning.github.io/validate/](https://d
 - Design 2 multiple-choice (a-b-c) questions about the validate package
 
 
+## Thank you for your attention
 
+### Documentation$^*$
 
-### Documentation
-
-- Data Validation Cookbook: [data.cleaning.github.io/validate/](https://data-cleaning.github.io/validate/)
+- Data Validation Cookbook: [data-cleaning.github.io/validate/](https://data-cleaning.github.io/validate/)
 - MPJ van der Loo, E de Jonge (2021). Data Validation Infrastructure for R. Journal of Statistical Software 1--22 97.
+- MPJ van der Loo, E de Jonge (2020). Data Validation. In Wiley StatsRef: Statistics Reference Online, pages 1-7. 
 - Statistical Data Cleaning with Applications in R (Wiley, 2018)
 
-### Packages
+### More data validation packages
  
 - `validatetools` (Edwin de Jonge): find inconsistencies, redundancies in data validation rules
 - `validatesuggest` (Edwin de Jonge): Derive rules from example data
 
 
-
+\tiny{}\hfill{}$^*$pdfs via markvanderloo.eu\normalfont{}
 
 
 
