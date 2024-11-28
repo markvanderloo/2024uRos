@@ -41,7 +41,11 @@ rules <- rules + validator(V6 = total.costs>=0)
 rules
 
 # can you explain why this yields an error?
-attempt <- validator(mean(staff, na.rm=TRUE))
+attempt <- validator(mean(staff, na.rm=TRUE) >= 0)
+
+
+rulez <- validator(.file="slides/myrulez.R")
+
 
 
 
