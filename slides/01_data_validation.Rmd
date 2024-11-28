@@ -111,7 +111,7 @@ $0.9<\textsf{mean}(Profit_{2018})/\textsf{mean}(Profit_{2017}) <1.1$
 
 ### Multiple times or domains
 
-- $0.9<\textsf{mean}(Profit_{2018})/\textsf{mean}(Profit_{2017}) <1.1$: $smss$, level 1
+- $0.9<\textsf{mean}(Profit_{2018})/\textsf{mean}(Profit_{2017}) <1.1$: $smms$, level 2
 
 
 ## Possible validation rule classes
